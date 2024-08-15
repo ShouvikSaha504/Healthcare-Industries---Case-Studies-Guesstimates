@@ -12,19 +12,23 @@ Data scientists play a pivotal role in addressing these challenges, leveraging t
 
 1. Platform Selection
 Question: Choose a leading platform from a domain related to the e-commerce industry. Justify your selection by discussing the platform's popularity, impact, and relevance in its industry.
-2. Core Features and Functionalities
+
+3. Core Features and Functionalities
 Question: Research and list the core features and functionalities of the selected platform. Describe how these features contribute to the platform’s success and user engagement.
-3. Real World Problems
+
+5. Real World Problems
 Question: Identify the real-world problems that the platform aims to solve. Discuss how the platform addresses these problems through its features and functionalities.
 
 **Database Management & Schema Design** 
 4. Schema Design
 Question: Based on the features and functionalities you have identified, design a schema that reflects the platform’s data structure. Define the key entities, attributes, and relationships that underpin these features.
+
 5. ER Diagram Creation
 Question: Utilise tools like the Miro platform or similar applications to create an illustrative Entity-Relationship (ER) diagram. This diagram should vividly depict the entities, attributes, and relationships present within your schema design.
 
 **Revenue and Profit Growth Strategies**
 Question: After completing the product dissection and schema design steps for the chosen platform, conduct a comprehensive case study on the above chosen industry. Your goal is to identify and propose strategies to increase the profit of the industry by at least 25%.
+
 Create a detailed report summarising your findings and proposals. Include data-driven justifications for each proposed strategy and present your case study using visual aids such as charts, graphs, and diagrams to illustrate your points. Outline the steps, resources, and timeline required to achieve the desired revenue and profit growth.
 
 **PART - II**
