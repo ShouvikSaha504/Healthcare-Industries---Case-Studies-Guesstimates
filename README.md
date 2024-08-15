@@ -1,5 +1,6 @@
 # Healthcare-Industries---Case-Studies-Guesstimates
--- Product Dissection, Schema Design, & Profit growth strategies
+Product Dissection, Schema Design, & Profit growth strategies
+
 # Overview
 This repository contains case studies and guesstimates related to the healthcare industry, focusing on product dissection, database management, schema design, and revenue/profit growth strategies. The goal is to provide detailed insights and data-driven strategies to address real-world challenges in healthcare through the application of data science and advanced analytics.
 
