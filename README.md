@@ -166,6 +166,9 @@ To design a schema for Apollo 24/7 Pharmacy, the following key entities, attribu
 
 This schema captures the essential data interactions and relationships within Apollo 24/7 Pharmacy, ensuring efficient data management and supporting the platform’s features and functionalities effectively.
 
+**ER Diagram link:** https://github.com/ShouvikSaha504/Healthcare-Industries---Case-Studies-Guesstimates/blob/a27ca05126df471687bfc01cb111ad30d2adfee6/ER_Diagram.JPG
+
+
 **ER Diagram:**
 ![image](https://github.com/user-attachments/assets/f4ce25be-aa98-4066-b837-0470e8f5fc02)
 
