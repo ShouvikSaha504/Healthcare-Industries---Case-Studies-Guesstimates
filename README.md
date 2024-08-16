@@ -8,6 +8,8 @@ The healthcare industry is a cornerstone of society, providing essential service
 
 Data scientists play a pivotal role in addressing these challenges, leveraging their expertise to analyse vast amounts of healthcare data. They help in predicting disease outbreaks, personalising treatment plans, and improving patient outcomes through predictive analytics. Additionally, data scientists optimise hospital operations, enhance diagnostic accuracy with machine learning algorithms, and contribute to the development of new medical treatments and drugs. By harnessing the power of data, they drive innovation, improve efficiency, and ensure the delivery of high-quality healthcare services, making a significant impact on the industry's growth and sustainability.
 
+**Part I & Part II link:** https://github.com/ShouvikSaha504/Healthcare-Industries---Case-Studies-Guesstimates/blob/96c98d693ccb216c926bdb485e9849636ad1b029/Healthcare%20Industries%20-%20case%20study%20Shouvik%20Saha.docx
+
 **PART - I**
 
 **Product Dissection**
